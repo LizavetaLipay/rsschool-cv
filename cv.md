@@ -28,7 +28,7 @@ __Experience:__
   HTML Academy
 
 __Education:__
-  *I graduated from the International State Ecological Institute named after A.D. Sakharov BSU as an environmental expert. Later she graduated from the second stage of higher education with the assignment of the degree "Master".*
+  *I graduated from the International State Ecological Institute named after A.D. Sakharov BSU as an environmental expert.*
 
 __English:__
   *My English level is A2.*
